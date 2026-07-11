@@ -1,0 +1,251 @@
+ProductID,Category,COGS,SellingPrice
+PROD_001,Books,99.62,135.52
+PROD_002,Home & Kitchen,26.4,34.86
+PROD_003,Apparel,75.82,109.24
+PROD_004,Books,144.76,204.68
+PROD_005,Electronics,126.29,184.62
+PROD_006,Apparel,109.89,148.03
+PROD_007,Home & Kitchen,80.07,116.77
+PROD_008,Books,62.17,84.45
+PROD_009,Electronics,70.46,93.18
+PROD_010,Apparel,115.87,153.76
+PROD_011,Electronics,85.37,114.76
+PROD_012,Apparel,115.87,166.45
+PROD_013,Home & Kitchen,145.63,196.43
+PROD_014,Apparel,97.87,139.06
+PROD_015,Home & Kitchen,92.45,124.93
+PROD_016,Apparel,63.89,87.73
+PROD_017,Books,33.53,49.55
+PROD_018,Apparel,59.26,82.97
+PROD_019,Apparel,80.41,114.19
+PROD_020,Beauty & Wellness,10.05,13.45
+PROD_021,Beauty & Wellness,73.99,98.14
+PROD_022,Apparel,130.01,179.76
+PROD_023,Beauty & Wellness,146.61,215.68
+PROD_024,Home & Kitchen,129.05,173.99
+PROD_025,Beauty & Wellness,29.94,42.64
+PROD_026,Apparel,27.48,40.51
+PROD_027,Electronics,62.03,92.23
+PROD_028,Electronics,37.69,56.48
+PROD_029,Apparel,103.02,149.64
+PROD_030,Apparel,17.26,22.7
+PROD_031,Electronics,69.34,102.23
+PROD_032,Books,45.65,67.43
+PROD_033,Beauty & Wellness,91.33,128.91
+PROD_034,Books,120.57,158.37
+PROD_035,Home & Kitchen,138.92,193.84
+PROD_036,Electronics,144.76,194.29
+PROD_037,Electronics,55.92,77.64
+PROD_038,Books,129.1,186.52
+PROD_039,Home & Kitchen,90.83,130.21
+PROD_040,Books,105.38,153.43
+PROD_041,Home & Kitchen,128.41,179.18
+PROD_042,Apparel,23.87,33.46
+PROD_043,Apparel,142.37,211.73
+PROD_044,Electronics,84.37,120.34
+PROD_045,Apparel,53.72,77.87
+PROD_046,Books,54.12,77.54
+PROD_047,Home & Kitchen,113.9,162.65
+PROD_048,Electronics,103.41,153.32
+PROD_049,Apparel,110.77,151.9
+PROD_050,Electronics,41.68,57.76
+PROD_051,Electronics,29.68,40.84
+PROD_052,Home & Kitchen,109.67,159.35
+PROD_053,Books,48.28,71.15
+PROD_054,Books,37.25,51.09
+PROD_055,Beauty & Wellness,36.12,47.98
+PROD_056,Books,26.52,37.09
+PROD_057,Apparel,66.89,100.12
+PROD_058,Beauty & Wellness,42.84,57.43
+PROD_059,Beauty & Wellness,134.61,187.16
+PROD_060,Beauty & Wellness,104.93,142.1
+PROD_061,Beauty & Wellness,112.86,167.54
+PROD_062,Books,63.52,89.58
+PROD_063,Beauty & Wellness,92.03,130.29
+PROD_064,Apparel,77.62,101.03
+PROD_065,Apparel,29.28,41.89
+PROD_066,Electronics,11.94,16.25
+PROD_067,Apparel,104.11,146.03
+PROD_068,Electronics,22.57,31.74
+PROD_069,Apparel,13.32,18.89
+PROD_070,Beauty & Wellness,69.07,101.17
+PROD_071,Home & Kitchen,112.01,152.31
+PROD_072,Beauty & Wellness,116.49,157.4
+PROD_073,Books,131.65,192.1
+PROD_074,Electronics,33.89,48.92
+PROD_075,Home & Kitchen,147.92,198.96
+PROD_076,Apparel,115.67,150.38
+PROD_077,Beauty & Wellness,27.8,39.84
+PROD_078,Electronics,126.9,168.97
+PROD_079,Electronics,77.35,115.36
+PROD_080,Apparel,14.65,20.81
+PROD_081,Electronics,24.15,35.49
+PROD_082,Apparel,67.91,99.23
+PROD_083,Apparel,81.92,115.64
+PROD_084,Beauty & Wellness,142.39,197.59
+PROD_085,Electronics,36.28,50.77
+PROD_086,Books,73.75,107.71
+PROD_087,Books,37.75,53.92
+PROD_088,Beauty & Wellness,85.97,115.3
+PROD_089,Beauty & Wellness,136.85,194.58
+PROD_090,Apparel,87.32,120.59
+PROD_091,Books,78.96,103.62
+PROD_092,Electronics,113.77,156.57
+PROD_093,Books,26.4,35.53
+PROD_094,Beauty & Wellness,136.31,200.07
+PROD_095,Beauty & Wellness,88.76,117.25
+PROD_096,Apparel,104.51,143.41
+PROD_097,Electronics,123.75,178.09
+PROD_098,Beauty & Wellness,97.08,143.63
+PROD_099,Electronics,97.97,133.94
+PROD_100,Books,110.8,157.47
+PROD_101,Apparel,12.57,17.29
+PROD_102,Books,60.42,81.0
+PROD_103,Beauty & Wellness,144.63,197.44
+PROD_104,Beauty & Wellness,42.4,60.51
+PROD_105,Electronics,83.63,120.7
+PROD_106,Beauty & Wellness,30.44,41.82
+PROD_107,Electronics,51.87,69.02
+PROD_108,Home & Kitchen,108.98,144.71
+PROD_109,Beauty & Wellness,98.25,143.69
+PROD_110,Books,65.08,93.1
+PROD_111,Books,141.02,203.86
+PROD_112,Electronics,117.38,164.06
+PROD_113,Home & Kitchen,43.85,61.01
+PROD_114,Beauty & Wellness,72.49,97.3
+PROD_115,Apparel,132.32,176.46
+PROD_116,Apparel,8.26,10.99
+PROD_117,Books,89.31,133.82
+PROD_118,Beauty & Wellness,38.63,56.57
+PROD_119,Apparel,14.25,20.32
+PROD_120,Electronics,137.36,184.46
+PROD_121,Beauty & Wellness,123.36,168.7
+PROD_122,Books,31.87,43.66
+PROD_123,Home & Kitchen,126.36,176.34
+PROD_124,Electronics,26.23,36.32
+PROD_125,Electronics,74.04,110.09
+PROD_126,Beauty & Wellness,110.24,159.2
+PROD_127,Home & Kitchen,82.4,108.46
+PROD_128,Electronics,128.36,176.11
+PROD_129,Home & Kitchen,94.45,125.29
+PROD_130,Books,67.63,91.7
+PROD_131,Electronics,139.15,207.58
+PROD_132,Apparel,10.26,14.79
+PROD_133,Books,75.82,98.68
+PROD_134,Books,100.81,137.69
+PROD_135,Electronics,126.23,175.17
+PROD_136,Apparel,83.47,118.57
+PROD_137,Home & Kitchen,133.4,186.75
+PROD_138,Apparel,66.81,87.79
+PROD_139,Books,50.98,71.54
+PROD_140,Electronics,146.2,193.87
+PROD_141,Apparel,101.74,142.83
+PROD_142,Apparel,66.74,90.04
+PROD_143,Books,132.34,175.86
+PROD_144,Home & Kitchen,104.05,141.25
+PROD_145,Apparel,97.5,128.69
+PROD_146,Apparel,110.64,150.11
+PROD_147,Beauty & Wellness,112.05,165.1
+PROD_148,Books,76.48,104.13
+PROD_149,Beauty & Wellness,65.8,91.73
+PROD_150,Books,136.85,192.13
+PROD_151,Books,77.1,102.98
+PROD_152,Beauty & Wellness,36.29,50.39
+PROD_153,Home & Kitchen,80.63,118.58
+PROD_154,Home & Kitchen,9.99,13.15
+PROD_155,Books,109.88,163.13
+PROD_156,Beauty & Wellness,23.41,34.52
+PROD_157,Apparel,21.2,31.19
+PROD_158,Books,142.22,190.54
+PROD_159,Books,117.02,163.46
+PROD_160,Electronics,65.06,92.6
+PROD_161,Home & Kitchen,39.74,52.45
+PROD_162,Beauty & Wellness,127.31,179.68
+PROD_163,Apparel,145.44,213.51
+PROD_164,Apparel,78.71,117.07
+PROD_165,Books,89.11,120.8
+PROD_166,Apparel,40.24,54.64
+PROD_167,Apparel,90.44,122.47
+PROD_168,Books,63.09,83.95
+PROD_169,Home & Kitchen,127.61,176.88
+PROD_170,Electronics,59.68,86.95
+PROD_171,Home & Kitchen,99.07,142.9
+PROD_172,Home & Kitchen,34.5,51.07
+PROD_173,Electronics,18.15,24.88
+PROD_174,Books,10.85,15.35
+PROD_175,Home & Kitchen,65.27,94.86
+PROD_176,Beauty & Wellness,28.71,42.48
+PROD_177,Beauty & Wellness,149.05,219.76
+PROD_178,Electronics,120.77,168.24
+PROD_179,Beauty & Wellness,105.54,156.34
+PROD_180,Books,121.48,168.71
+PROD_181,Apparel,43.1,63.81
+PROD_182,Books,132.49,192.83
+PROD_183,Electronics,149.37,200.8
+PROD_184,Apparel,47.03,69.88
+PROD_185,Beauty & Wellness,147.77,199.27
+PROD_186,Home & Kitchen,51.46,76.24
+PROD_187,Beauty & Wellness,6.7,9.53
+PROD_188,Books,58.25,83.49
+PROD_189,Books,149.64,197.8
+PROD_190,Electronics,97.1,127.5
+PROD_191,Home & Kitchen,105.84,158.1
+PROD_192,Home & Kitchen,39.56,54.09
+PROD_193,Apparel,26.16,38.42
+PROD_194,Apparel,133.4,192.21
+PROD_195,Books,64.94,92.27
+PROD_196,Electronics,5.6,8.04
+PROD_197,Books,47.67,62.82
+PROD_198,Home & Kitchen,33.38,46.15
+PROD_199,Home & Kitchen,92.55,131.55
+PROD_200,Books,114.64,168.92
+PROD_201,Home & Kitchen,77.14,111.3
+PROD_202,Apparel,31.96,43.16
+PROD_203,Home & Kitchen,13.4,20.07
+PROD_204,Apparel,50.46,72.09
+PROD_205,Beauty & Wellness,121.86,170.64
+PROD_206,Electronics,65.83,95.87
+PROD_207,Electronics,41.58,59.06
+PROD_208,Home & Kitchen,8.01,11.54
+PROD_209,Electronics,76.93,109.5
+PROD_210,Beauty & Wellness,104.3,139.32
+PROD_211,Home & Kitchen,32.6,45.92
+PROD_212,Apparel,82.89,112.45
+PROD_213,Beauty & Wellness,66.01,93.34
+PROD_214,Beauty & Wellness,107.07,141.88
+PROD_215,Electronics,129.79,174.75
+PROD_216,Apparel,49.52,72.39
+PROD_217,Books,136.19,188.09
+PROD_218,Beauty & Wellness,107.51,154.25
+PROD_219,Electronics,10.39,14.54
+PROD_220,Beauty & Wellness,119.73,163.81
+PROD_221,Apparel,76.72,107.34
+PROD_222,Apparel,142.09,207.84
+PROD_223,Home & Kitchen,51.93,70.43
+PROD_224,Books,90.73,125.59
+PROD_225,Books,143.64,192.55
+PROD_226,Electronics,44.32,60.73
+PROD_227,Books,73.43,108.46
+PROD_228,Apparel,114.11,166.28
+PROD_229,Books,105.21,144.63
+PROD_230,Electronics,126.61,167.95
+PROD_231,Beauty & Wellness,80.37,111.23
+PROD_232,Books,51.24,74.53
+PROD_233,Books,82.59,108.09
+PROD_234,Apparel,55.74,80.78
+PROD_235,Apparel,30.58,43.92
+PROD_236,Beauty & Wellness,85.47,112.22
+PROD_237,Home & Kitchen,12.02,17.15
+PROD_238,Books,10.3,14.01
+PROD_239,Apparel,14.36,19.18
+PROD_240,Home & Kitchen,102.53,141.18
+PROD_241,Books,64.01,85.85
+PROD_242,Books,76.65,112.28
+PROD_243,Home & Kitchen,54.79,79.36
+PROD_244,Apparel,41.78,62.51
+PROD_245,Beauty & Wellness,56.95,80.12
+PROD_246,Books,33.04,43.54
+PROD_247,Electronics,103.42,142.05
+PROD_248,Electronics,19.75,28.99
+PROD_249,Electronics,79.95,110.28
+PROD_250,Beauty & Wellness,74.14,103.14
