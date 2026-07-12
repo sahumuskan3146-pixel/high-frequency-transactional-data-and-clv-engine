@@ -2,6 +2,8 @@
 
 ## 📊 Project Overview
 This enterprise-grade Power BI dashboard transforms high-frequency transactional data into actionable financial metrics, specifically targeting Customer Lifetime Value (CLV) and risk monitoring. Designed for executive decision-making, it bridges the gap between raw transaction anomalies and long-term corporate revenue sustainability.
+## 📺 Live Demo Video
+[![Watch the Demo](https://img.shields.io/badge/🎥%20Watch-CLV%20Dashboard%20Demo-deeppink?style=for-the-badge&logo=loom)](https://www.loom.com/share/2ed474b37bf4494e8fae9e1136772006)
 
 ## 🛠️ Core Tech Stack & Financial Analyst Skills
 *   **Power BI & DAX (Advanced Financial Visualization):** Formulated complex DAX measures to compute running totals, customer recency, purchase frequency, and predictive monetary values.
